@@ -73,12 +73,17 @@ export const NavData =[
   ]
   export const dataAccessory =[
     {
-      url:"/images/accessory/jewelery2.webp",
+      url:"/images/accessory/jewelery.jpg",
       price:"₺690",
       description:"Lorem ipsum dolor sit amet. ",
     },
     {
-      url:"/images/accessory/jewelery.jpg",
+      url:"/images/accessory/jewelery1.webp",
+      price:"₺690",
+      description:"Lorem ipsum dolor sit amet. ",
+    },
+    {
+      url:"/images/accessory/jewelery2.png",
       price:"₺1216",
       description:"Lorem ipsum dolor sit amet. ",
     },
@@ -88,7 +93,7 @@ export const NavData =[
       description:"Lorem ipsum dolor sit amet. ",
     },
     {
-      url:"/images/accessory/jewelery4.avif",
+      url:"/images/accessory/jewelery4.webp",
       price:"₺2140",
       description:"Lorem ipsum dolor sit amet. ",
     },
