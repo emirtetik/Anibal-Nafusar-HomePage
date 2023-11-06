@@ -17,9 +17,7 @@ const Header = () => {
       <div>
         <Search />
       </div>
-      <div>
-        <ThemeButton />
-      </div>
+     
     </header>
   );
 };

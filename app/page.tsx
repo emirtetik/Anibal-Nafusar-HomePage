@@ -1,15 +1,19 @@
-import Image from 'next/image'
-import ThemeButton from './components/_corecomponent/button/themeButton'
-import Video from './components/_corecomponent/video'
 import Hero from './components/hero'
-import ProductCategory from './components/feature/products'
+import Category from './components/category'
+import CarouselProduct from './components/carousel'
+import Card from './components/card'
+import Video from './components/_corecomponent/video'
+import Stats from './components/feature/stats'
 
 export default function Home() {
   return (
     <main >
-      <Hero/>
-      <ProductCategory/>
       {/* <Video/> */}
+      <Hero/>
+      <Category/>
+      <CarouselProduct/>
+      <Card/>
+      <Stats/>
     </main>
   )
 }

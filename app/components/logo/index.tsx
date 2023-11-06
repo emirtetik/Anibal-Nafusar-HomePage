@@ -14,7 +14,7 @@ const Logo = () => {
 
   return (
     <div className='flex '>
-      <div className='header-div rounded-full absolute top-6 sm:top-9 z-10 hover:animate-spin transition-all duration-150 ease-in-out '>
+      <div className='header-div rounded-full absolute top-0 sm:top-9 z-10 hover:animate-spin transition-all duration-150 ease-in-out '>
         <Link href={"/"}>
           <Image width={120} height={120} src={logoClass} alt="logo" />
         </Link>

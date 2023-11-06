@@ -36,9 +36,6 @@ const config: Config = {
       },
       backgroundImage: theme => ({
         'background-image-1': "url('/assets/guy.webp')",
-      //   'background-image-4': "url('/src/assets/images/bg4.jpg')",
-      //   'background-image-7': "url('/src/assets/images/bg4.jpg')",
-
       }),
     },
   },

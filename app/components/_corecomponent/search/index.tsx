@@ -21,7 +21,7 @@ const Search = () => {
         placeholder="Ara..."
         value={searchTerm}
         onChange={handleSearchChange}
-        className="border-2 border-gray-300 max-w-[180px] textColor  rounded-sm p-0.5 pl-8 flex-grow  focus:outline-none shadow-dark2"
+        className="border-2 border-gray-300 max-w-[180px] textColor  rounded-sm p-0.5 pl-8 flex-grow  focus:outline-none shadow-dark"
       />
       <button type="submit" className="p-2">
         <AiOutlineSearch className="h-5 w-5 text-gray-500 " />

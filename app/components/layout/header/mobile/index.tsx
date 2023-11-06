@@ -10,7 +10,7 @@ const MobileMenu = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <header className="flex flex-col md:flex-row justify-between items-center p-4 bg-black text-white">
+    <header className="flex flex-col md:flex-row justify-between items-center p-4 header-div textColor">
        <div className="flex justify-between items-center w-full">
       {!isOpen ?  <Logo /> : ""}
         <div className="md:hidden text-2xl ml-auto">
@@ -31,7 +31,6 @@ const MobileMenu = () => {
             <Navigation />
             <Search />
           </div>
-          <ThemeButton />
         </div>
       </nav>
     </header>
