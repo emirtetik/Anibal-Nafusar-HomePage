@@ -12,12 +12,12 @@ Bu proje, Next.js kullanılarak oluşturulmuştur ve aşağıdaki bağımlılık
 
 Projenin kurulumu ve çalıştırılması için aşağıdaki adımları izleyin:
 
-1. Projeyi klonlayın: git clone 
+1. Projeyi klonlayın: git clone https://github.com/emirtetik/Anibal-Nafusar-HomePage.git
 2. Bağımlılıkları yükleyin: npm install
 3.  Projeyi yerel olarak çalıştırın: npm run dev
 4.  Bu komut, `localhost:3000` adresinde bir sunucu başlatır.
 
-! [homepage] ("assets/nafusar.png")
+! [homepage]("./assets/nafusar.png")
 ## Getting Started
 
 First, run the development server:
