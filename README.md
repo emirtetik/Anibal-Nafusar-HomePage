@@ -1,5 +1,23 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Nafusar-HomePage Projesi
 
+Bu proje, Next.js kullanılarak oluşturulmuştur ve aşağıdaki bağımlılıkları içerir:
+
+- AOS: Animasyonlar için.
+- Classnames: Dinamik ve/veya koşullu className'ler oluşturmak için.
+- Next Themes: Tema desteği için.
+- React Icons: İkonlar için.
+- React Responsive Carousel: Carousel oluşturmak için.
+
+## Kurulum
+
+Projenin kurulumu ve çalıştırılması için aşağıdaki adımları izleyin:
+
+1. Projeyi klonlayın: git clone 
+2. Bağımlılıkları yükleyin: npm install
+3.  Projeyi yerel olarak çalıştırın: npm run dev
+4.  Bu komut, `localhost:3000` adresinde bir sunucu başlatır.
+
+! [homepage] ("assets/nafusar.png")
 ## Getting Started
 
 First, run the development server:
