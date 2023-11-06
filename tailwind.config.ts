@@ -9,9 +9,6 @@ const config: Config = {
   theme: {
     darkMode:"class",
     extend: {
-      transitionProperty: {
-        'colors': 'background-color, border-color, color, fill, stroke',
-      },
       fontFamily: {
         jacarta: ['Plus Jakarta Sans ','sans-serif'],
       },
@@ -28,15 +25,12 @@ const config: Config = {
       },
       
       colors: {
-        'primary': '#fffbfb',         //turuncu
-        'secondary': '#FFA559',       //açık krem       
-        'third': '#FFE6C7',           //krem
-        'fourth': '#454545',           //gri 
-        'fifth': '#C4CCCC'             // açık gri   
+        'primary': '#fffbfb',        
+        'secondary': '#FFA559',             
+        'third': '#FFE6C7',           
+        'fourth': '#454545',           
+        'fifth': '#C4CCCC'              
       },
-      backgroundImage: theme => ({
-        'background-image-1': "url('/assets/guy.webp')",
-      }),
     },
   },
   plugins: [],
