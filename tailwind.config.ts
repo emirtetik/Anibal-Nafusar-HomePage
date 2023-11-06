@@ -19,9 +19,8 @@ const config: Config = {
         extrabold: '800',
       },
       boxShadow:{
-        'dark': 'rgb(38, 57, 77) 0px 20px 30px -10px;',
-        "dark2" :"rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;",
-        'light': 'rgba(0, 0, 0, 0.04) 0px 3px 5px;'
+        'dark': 'rgb(38, 57, 77) 0px 20px 30px -10px',
+        'light': 'rgba(0, 0, 0, 0.04) 0px 3px 5px'
       },
       
       colors: {
