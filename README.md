@@ -17,7 +17,7 @@ Projenin kurulumu ve çalıştırılması için aşağıdaki adımları izleyin:
 3.  Projeyi yerel olarak çalıştırın: npm run dev
 4.  Bu komut, `localhost:3000` adresinde bir sunucu başlatır.
 
-![homepage](./assets/nafusar.png)
+![homepage](./public/assets/nafusar.png)
 ## Getting Started
 
 First, run the development server:
